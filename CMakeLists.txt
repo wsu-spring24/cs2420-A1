@@ -3,4 +3,4 @@ project(cs2420_inclass)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(tester DateTesting.cpp Date.h)
+add_executable(tester DateTesting2.cpp Date.h)
